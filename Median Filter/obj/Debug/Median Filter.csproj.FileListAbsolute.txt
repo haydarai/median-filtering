@@ -1,0 +1,9 @@
+d:\data\Projects\C#\Median Filter\Median Filter\bin\Debug\Median Filter.exe.config
+d:\data\Projects\C#\Median Filter\Median Filter\bin\Debug\Median Filter.exe
+d:\data\Projects\C#\Median Filter\Median Filter\bin\Debug\Median Filter.pdb
+d:\data\Projects\C#\Median Filter\Median Filter\obj\Debug\Median Filter.csprojResolveAssemblyReference.cache
+d:\data\Projects\C#\Median Filter\Median Filter\obj\Debug\Median_Filter.Form1.resources
+d:\data\Projects\C#\Median Filter\Median Filter\obj\Debug\Median_Filter.Properties.Resources.resources
+d:\data\Projects\C#\Median Filter\Median Filter\obj\Debug\Median Filter.csproj.GenerateResource.Cache
+d:\data\Projects\C#\Median Filter\Median Filter\obj\Debug\Median Filter.exe
+d:\data\Projects\C#\Median Filter\Median Filter\obj\Debug\Median Filter.pdb
